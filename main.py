@@ -1,3 +1,5 @@
+import os
+
 from hopx_ai import Sandbox
 
 sandbox = Sandbox.create(
